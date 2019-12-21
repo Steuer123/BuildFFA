@@ -1,0 +1,7 @@
+name: BuildFFA
+version: 1.0
+author: Steuer
+main: de.steuer.buildffa.BuildFFA
+commands:
+  setup:
+  stats:

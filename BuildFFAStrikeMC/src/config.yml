@@ -1,0 +1,6 @@
+MySQL:
+  host: 'localhost'
+  username: 'root'
+  password: ''
+  database: 'BuildFFA'
+  port: '3306'
